@@ -1,0 +1,15 @@
+{
+  "name": "project01",
+  "version": "1.0.0",
+  "description": "Project to understand TS",
+  "license": "ISC",
+  "author": "Vasilii Serebrovskii",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
