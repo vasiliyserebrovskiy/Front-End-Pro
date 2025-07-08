@@ -1,0 +1,30 @@
+.handlePlus {
+  color: green;
+  border-radius: 15px;
+  width: 80px;
+  background-color: aquamarine;
+  background-color: aquamarine;
+}
+
+.handleMinus {
+  color: yellow;
+  border-radius: 15px;
+  width: 80px;
+  background-color: chocolate;
+  border-color: chocolate;
+}
+
+.handleReset {
+  color: red;
+  border-radius: 15px;
+  width: 80px;
+  background-color: darkblue;
+  border-color: darkblue;
+}
+
+.mainDiv {
+  border: 2px solid darkgreen;
+  padding: 20px;
+  border-radius: 25px;
+  margin: 20px;
+}
