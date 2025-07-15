@@ -1,0 +1,13 @@
+.userCard {
+  background-color: lightblue;
+  border-radius: 18px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+
+.userCard > img {
+  width: 200px;
+}
